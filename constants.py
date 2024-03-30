@@ -5,7 +5,7 @@ from characters import (
     Teen,
     Soldier,
     Stormtrooper,
-    TRex
+    TRex,
 )
 
 
@@ -16,5 +16,5 @@ CHARACTER_CLASSES = [
     Teen,
     Soldier,
     Stormtrooper,
-    TRex
+    TRex,
 ]
