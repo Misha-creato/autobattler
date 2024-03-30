@@ -2,8 +2,8 @@ from game import Game
 
 
 def main():
-    g = Game()
-    g.start()
+    game = Game()
+    game.start()
 
 
 if __name__ == '__main__':
